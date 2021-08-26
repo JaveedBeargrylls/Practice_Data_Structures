@@ -7,4 +7,4 @@
 - *Used if condition and Exception <file_exists_or_not.py>*
 ----------
 ## Python practice on arrays
-- *Used List arrays and array module to try reversing,count*
+- *Used List arrays and array module to try basic practice like reversing&count*
