@@ -6,5 +6,5 @@
 ## Python program to check whether a file exists.
 - *Used if condition and Exception <file_exists_or_not.py>*
 ----------
-## Python program to reverse the order of the items in the array
-- *Used List arrays and array module to try revering*
+## Python practice on arrays
+- *Used List arrays and array module to try reversing,count*
